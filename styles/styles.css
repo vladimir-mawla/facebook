@@ -34,3 +34,8 @@
     width: 396px;
     text-align: center;
 }
+
+.email-pass input{
+    width: 100%;
+    height: 50px;
+}
