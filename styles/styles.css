@@ -8,7 +8,11 @@
 }
 .logo img {
     width: 100%;
+    margin-left: -28px;
 }
 .logo {
     width: 25%;
+}
+.items {
+    margin: 0 5%;
 }
