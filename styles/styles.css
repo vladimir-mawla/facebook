@@ -10,7 +10,7 @@
 .logo img {
     height: 106px;
     width: auto;
-    padding-left: -150px;
+    margin-left: -32px;
     
 }
 .logo {
@@ -157,4 +157,22 @@ li > button {
     color: #737373;
     padding-left: 10px;
     padding-top: 15px;
+}
+@media only screen and (max-width: 1030px) {
+    .items {
+        
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        margin: 0 0px;
+        width:100%;
+        padding: 100px 0 155px 0;
+        flex-wrap: nowrap;
+    }
+
+    .description-text p {
+        width: 100%;
+        min-width: 380px;
+        padding-left: 30px;
+    }
 }
