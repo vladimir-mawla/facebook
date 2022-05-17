@@ -83,7 +83,8 @@
     font-size: 20px;
     font-weight: bold;
 }
-.forgot-pass {
+.forgot-pass a{
+    text-decoration: none;
     color: #1877f2;
     font-size: 14px;
     font-weight: 500;
@@ -93,7 +94,10 @@ hr {
     border: .1px solid;
     opacity: .2;
 }
-
+.create-page a {
+    text-decoration: none;
+    color: black;
+}
 .new-acc-btn {
     color: white;
     background-color: #42b72a;
@@ -146,7 +150,7 @@ li > button {
     font-size: 12px;
     font-weight: lighter;
     color: black;
-  }
+}
 
 .go-to li {
     width: 100%;
