@@ -88,3 +88,9 @@ hr {
     font-size: 17px;
     font-weight: 600;
 }
+.create-page {
+    margin-top: 28px;
+    font-size: 14px;
+    text-align: center;
+    width: 396px;
+}
