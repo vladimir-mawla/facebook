@@ -34,6 +34,9 @@
     width: 396px;
     text-align: center;
 }
+.input div {
+    padding-bottom: 15px;
+}
 
 .email-pass input{
     width: 100%;
@@ -44,4 +47,8 @@
 }
 .email-pass div {
     padding-bottom: 15px;
+}
+
+.input-elements {
+    padding: 5%;
 }
