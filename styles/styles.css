@@ -10,18 +10,35 @@
 .logo img {
     height: 106px;
     width: 100%;
-    margin-left: -28px;
+    margin-left: -145px;
+    
 }
 .logo {
-    width: 25%;
+    width: 80%;
+    padding: 112px 0 16px;
+    
 }
 .items {
     margin: 0 40px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 0 50px;
+    width:1050px;
+    margin-left: 100px;
+    padding-bottom: 155px;
+    padding-top: 100px;
+    flex-wrap: nowrap;
 }
 .description {
     font-size: 24px;
     line-height: 28px;
     width: auto;
+    right: 0;
+    
+}
+.description-text p {
+    width: 100%;
 }
 .input {
     background-color: white;
