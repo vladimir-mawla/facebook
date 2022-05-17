@@ -153,3 +153,9 @@ li > button {
     padding: 5px 10px;
     
 }
+.copyright {
+    font-size: 11px;
+    color: #737373;
+    padding-left: 10px;
+    padding-top: 15px;
+}
