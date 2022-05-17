@@ -14,5 +14,10 @@
     width: 25%;
 }
 .items {
-    margin: 0 5%;
+    margin: 0 40px;
+}
+.description {
+    font-size: 24px;
+    line-height: 28px;
+    width: auto;
 }
