@@ -77,3 +77,14 @@ hr {
     border: .1px solid;
     opacity: .2;
 }
+
+.new-acc-btn {
+    color: white;
+    background-color: #42b72a;
+    width: 60%;
+    height: 50px;
+    border-radius: 5px;
+    border-width: 0;
+    font-size: 17px;
+    font-weight: 600;
+}
