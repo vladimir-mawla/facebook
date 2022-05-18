@@ -210,18 +210,26 @@ li > button {
     }
     .logo {
         width: 100%;
-        padding: 10px 0 16px;
+        align-items: center;
+        text-align: center;
+        padding-top: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
         
     }
     .logo img {
         height: 106px;
         width: auto;
-        margin-left: 70px;
+        padding-top: 10px;
+        
     }
 
     .description-text p {
         width: 100%;
         min-width: 380px;
-        padding-left: 30px;
+        padding-left: 0;
+        text-align: center;
     }
 }
